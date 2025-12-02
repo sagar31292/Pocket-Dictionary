@@ -13,3 +13,16 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Keystore files - NEVER commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Play Store service account
+service-account.json
+play-store-credentials.json
+
+# Release notes
+release-notes.txt
+
