@@ -124,8 +124,6 @@ Add these 5 secrets to GitHub → Settings → Secrets:
 - Content rating
 - Target audience
 
-**Status:** ⏳ Pending (you need to do this)
-
 ---
 
 ## 🧪 Testing the Setup
