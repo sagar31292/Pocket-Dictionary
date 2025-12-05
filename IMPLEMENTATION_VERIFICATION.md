@@ -104,8 +104,6 @@ keytool -genkey -v -keystore pocket-dictionary.jks \
 - Download JSON key file
 - Grant permissions: "Releases → Edit releases"
 
-**Status:** ⏳ Pending (you need to do this)
-
 ### 3. Configure GitHub Secrets
 Add these 5 secrets to GitHub → Settings → Secrets:
 
@@ -125,8 +123,6 @@ Add these 5 secrets to GitHub → Settings → Secrets:
 - Privacy policy URL
 - Content rating
 - Target audience
-
-**Status:** ⏳ Pending (you need to do this)
 
 ---
 
